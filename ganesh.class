@@ -1,0 +1,4 @@
+class ganesh {
+  public static voicd main(sting[] args) {
+	system.out.println("This is the first comments for class file");
+}}
